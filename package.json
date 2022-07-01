@@ -4,12 +4,24 @@
   "description": "Exemplo de TypeScript",
   "main": "index.js",
   "scripts": {
-    "start": "parcel ../interfaces/index.html",
+    "start": "parcel Projeto1/index.html",
+    "interfaces": "parcel Interfaces/index.html",
+    "start-input": "parcel Tratando-input/index.html",
+    "start-gt": "parcel Generic-types/index.html",
+    "start-cond": "parcel Condicionais/index.html",
+    "start-carcper": "parcel CaracterdePergunta/index.html",
+    "start-ropr": "parcel VariaveisReadonlyePrivate/index.html",
+    "start-bibli": "parcel Bibliotecas/index.html",
+    "start-omit": "parcel Omit/index.html",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "author": "Oberdan Rocha",
   "license": "MIT",
   "dependencies": {
+    "jquery": "^3.6.0",
     "parcel": "^2.6.2"
+  },
+  "devDependencies": {
+    "@types/jquery": "^3.5.14"
   }
 }

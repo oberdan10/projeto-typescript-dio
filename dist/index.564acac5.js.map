@@ -1,0 +1,1 @@
+{"mappings":"AAAA,SAAS,IAAI,CAAC,CAAQ,EAAE,CAAQ,EAAC;IAC7B,OAAO,CAAC,GAAG,CAAC,CAAC;CAChB","sources":["Projeto1/index.ts"],"sourcesContent":["function soma(a:number, b:number){\r\n    return a + b;\r\n}\r\n"],"names":[],"version":3,"file":"index.564acac5.js.map","sourceRoot":"/__parcel_source_root/"}
